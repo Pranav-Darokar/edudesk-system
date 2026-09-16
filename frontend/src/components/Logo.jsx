@@ -66,7 +66,7 @@ const Logo = ({ className = "w-8 h-8", iconOnly = false }) => {
             </svg>
             {!iconOnly && (
                 <span className="text-xl font-bold tracking-tight text-slate-900 ml-1">
-                    EduDesk
+                    CampusFlow
                 </span>
             )}
         </div>

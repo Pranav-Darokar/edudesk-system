@@ -2,18 +2,19 @@
   "name": "edudesk",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/Pranav-Darokar/LearningRESTAPI#readme",
+  "bugs": {
+    "url": "https://github.com/Pranav-Darokar/LearningRESTAPI/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Pranav-Darokar/LearningRESTAPI.git"
   },
-  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Pranav-Darokar/LearningRESTAPI/issues"
-  },
-  "homepage": "https://github.com/Pranav-Darokar/LearningRESTAPI#readme"
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }

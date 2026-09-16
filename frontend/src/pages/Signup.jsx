@@ -47,14 +47,14 @@ const Signup = () => {
                     <div className="inline-flex items-center justify-center p-3 bg-indigo-600 rounded-2xl shadow-xl shadow-indigo-600/30 mb-6 group transition-transform hover:scale-110">
                         <AcademicCapIcon className="h-10 w-10 text-white" />
                     </div>
-                    <h1 className="text-4xl font-extrabold text-slate-900 tracking-tight">EduDesk</h1>
+                    <h1 className="text-4xl font-extrabold text-slate-900 tracking-tight">CampusFlow</h1>
                     <p className="mt-2 text-sm text-slate-500 font-medium">Join our community of learners.</p>
                 </div>
 
                 <div className="bg-white p-10 rounded-3xl shadow-2xl shadow-indigo-500/10 border border-slate-100">
                     <div>
                         <h2 className="text-2xl font-bold text-slate-900 mb-2">Create Account</h2>
-                        <p className="text-slate-500 text-sm mb-8">Sign up to get started with EduDesk.</p>
+                        <p className="text-slate-500 text-sm mb-8">Sign up to get started with CampusFlow.</p>
                     </div>
 
                     <form className="space-y-6" onSubmit={formik.handleSubmit}>

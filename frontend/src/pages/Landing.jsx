@@ -109,7 +109,7 @@ const Landing = () => {
             <section id="about" className="py-24 bg-slate-50 border-y border-slate-100">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="text-center mb-16">
-                        <h2 className="text-3xl lg:text-4xl font-bold mb-4 text-slate-900">About EduDesk</h2>
+                        <h2 className="text-3xl lg:text-4xl font-bold mb-4 text-slate-900">About CampusFlow</h2>
                         <p className="text-slate-500 max-w-2xl mx-auto">Empowering institutions with cutting-edge digital tools for a brighter educational future.</p>
                     </div>
 
@@ -181,7 +181,7 @@ const Landing = () => {
             <footer className="py-12 bg-white text-slate-400 border-t border-slate-100">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center">
                     <Logo className="w-8 h-8 mb-4 md:mb-0" />
-                    <p className="text-sm">© 2026 EduDesk. All rights reserved.</p>
+                    <p className="text-sm">© 2026 CampusFlow. All rights reserved.</p>
                 </div>
             </footer>
         </div>

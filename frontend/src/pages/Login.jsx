@@ -43,7 +43,7 @@ const Login = () => {
                     <div className="inline-flex items-center justify-center p-3 bg-indigo-600 rounded-2xl shadow-xl shadow-indigo-600/30 mb-6 group transition-transform hover:scale-110">
                         <AcademicCapIcon className="h-10 w-10 text-white" />
                     </div>
-                    <h1 className="text-4xl font-extrabold text-slate-900 tracking-tight">EduDesk</h1>
+                    <h1 className="text-4xl font-extrabold text-slate-900 tracking-tight">CampusFlow</h1>
                     <p className="mt-2 text-sm text-slate-500 font-medium">Empowering Education, Simplified.</p>
                 </div>
 
